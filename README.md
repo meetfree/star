@@ -26,7 +26,7 @@ star project
 7. https://github.com/mytianjunjie/page
 8. https://github.com/mytianjunjie/hello-world
 9. https://github.com/mytianjunjie/RESTful
-10. https://github.com/https://github.com/mytianjunjie/blog
+10. https://github.com/mytianjunjie/blog
 11. https://github.com/mytianjunjie/LazyPHP
 12. https://github.com/mytianjunjie/yaf-admin
 13. https://github.com/mytianjunjie/Share-Drag
