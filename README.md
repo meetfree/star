@@ -32,3 +32,6 @@ star project
 13. https://github.com/mytianjunjie/Share-Drag
 14. https://github.com/mytianjunjie/CZD_Yaf_Extension
 15. https://github.com/mytianjunjie/UploadFile
+
+### 软件
+[让应用走代理](https://www.proxifier.com)
